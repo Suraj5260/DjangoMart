@@ -1,1 +1,0 @@
-make multi currency options with realtime changes on shop screen.
