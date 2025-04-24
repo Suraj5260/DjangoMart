@@ -7,3 +7,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('store.urls'))
 ] + static(settings.MEDIA_URL, document = settings.MEDIA_ROOT)
+
