@@ -1,0 +1,3 @@
+-make multi currency options with realtime changes on shop screen.
+-impliment multipple address for a user and limit it to 3
+-
